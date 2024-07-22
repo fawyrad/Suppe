@@ -3,7 +3,7 @@
 
 
 
-Suppe is an Xposed module to disable SSL pinning on Android using the excellent technique provided by [Mattia Vinci](https://codeshare.frida.re/@sowdust/universal-android-ssl-pinning-bypass-2/). The effect is specified by the [scope](https://github.com/LSPosed/LSPosed/wiki/Module-Scope)
+Suppe is an Xposed module to disable SSL certificate verification on Android using the excellent technique provided by [Mattia Vinci](https://codeshare.frida.re/@sowdust/universal-android-ssl-pinning-bypass-2/). The effect is specified by the [scope](https://github.com/LSPosed/LSPosed/wiki/Module-Scope)
 
 ---
 
