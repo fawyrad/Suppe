@@ -12,7 +12,7 @@ Suppe is an Xposed module to disable SSL certificate verification on Android usi
     * [LSPosed](https://github.com/JingMatrix/LSPosed) 
 
 ## Tested
-* Android 14 QPR3, ARM64, LSPosed Mod 1.9.3
+* Android 14 QPR3, ARM64, LSPosed v1.10.1
 
 ## Troubleshooting
 * Some apps implement custom certificate checking, bypassing this hook. Try sniffing Chromium traffic, if you don't get an invalid certificate error then this module is working as it should.
